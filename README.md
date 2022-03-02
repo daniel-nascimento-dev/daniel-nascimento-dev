@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Daniel Nascimento, desenvolvo sistemas web
 
 
-<div>
+<div display="inline">
   <a href="https://github.com/daniel-nascimento-dev">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=daniel-nascimento-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-nascimento-dev&layout=compact&langs_count=7&theme=midnight-purple"/>
