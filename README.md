@@ -1,4 +1,4 @@
-## Olá! Eu sou o Daniel Nascimento
+## Olá! Eu sou o Daniel Nascimento, desenvolvo sistemas web
 
 
 <div align="center" display="flex">
