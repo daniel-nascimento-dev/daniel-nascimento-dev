@@ -1,6 +1,6 @@
-## Olá! 🖐🏼 Eu sou o Daniel Nascimento
+## Olá! 🖐🏼 Eu Sou O Daniel Nascimento
 
-<p>Usar tecnologias para fazer seus próprios projetos e vê-los funcionar <strong>códificar é vida!!!</strong> 😎</p>
+<p>Usar tecnologias para fazer seus próprios projetos e vê-los funcionar, não tem preço. essa foi uma das coisas que me fez gostar muito de programação. Quando ainda estava na faculadade, me encantei com todos aqueles códigos, isso me fez sempre estar estudando e praticando...<strong>códificar é vida!!!</strong> 😎</p>
 
 <div style="display: flex">
   <a href="https://github.com/daniel-nascimento-dev">
