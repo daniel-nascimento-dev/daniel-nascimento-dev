@@ -9,7 +9,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,tailwind,html,figma,css,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,tailwind,html,figma,css,bootstrap,ts,react" />
 </div>
 
 ##
