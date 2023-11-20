@@ -15,4 +15,4 @@
 </div>
 
 ##
-https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3
+<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
