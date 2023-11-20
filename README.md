@@ -1,6 +1,6 @@
-## Olá! Eu sou o Daniel Nascimento, desenvolvo sistemas web
+## Olá! 🖐🏼 Eu sou o Daniel Nascimento
 
-<p>A minha maior alegria em estudar programação foi pegar ideias pessoais e transforma-lás reais. Ver como os códigos funcionam no começo dos estudos me fizeram está sempre buscando estudar e se dedicar a ajudar amigos.Eu descobri que posso constribuir para o bem com tudo aquilo que estou estudando e com aquilo que já domino. <strong>códificar é vida!!!</strong> 😎</p>
+<p>A minha maior alegria em estudar programação foi pegar ideias pessoais e transforma-lás reais. Ver como os códigos funcionam no começo dos estudos me fizeram está sempre buscando estudar e se dedicar a ajudar amigos e cochecidos.Eu descobri que posso constribuir para o bem com tudo aquilo que estou estudando e com aquilo que já domino. <strong>códificar é vida!!!</strong> 😎</p>
 
 <div style="display: flex">
   <a href="https://github.com/daniel-nascimento-dev">
